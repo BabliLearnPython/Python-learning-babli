@@ -1,4 +1,4 @@
 # Python-learning-babli
 This is my first Git Repository.
 <br>
-author - Babli Sidar
+author - Babli (learnin python)
